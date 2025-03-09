@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oleksandrnastasii&label=Profile%20views&color=0e75b6&style=flat" alt="oleksandrnastasii" /> </p>
 
-- 🔭 I’m currently working on [Weather Reteller]
+- 🔭 I’m currently working on Weather Reteller.
 
 - 🌱 I’m currently learning **PostgreSQL, MySQL**
 
